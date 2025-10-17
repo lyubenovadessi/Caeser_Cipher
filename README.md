@@ -31,7 +31,7 @@ No external libraries are required.
 ## 🧩 Usage
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/caesar-cipher.git
+   [git clone https://github.com/yourusername/caesar-cipher.git](https://github.com/lyubenovadessi/Caeser_Cipher.git)
 2. Navigate to the project folder:
 cd caesar-cipher
 3. Run the script:
